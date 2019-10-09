@@ -1,11 +1,11 @@
 {
-    "name": "kiranpo/node",
+    "name": "kiranpo7/node",
     "description": "testNode",
     "type": "library",
     "authors": [
         {
-            "name": "kpoonia",
-            "email": "kpoonia@digitalriver.com"
+            "name": "kiranpo7",
+            "email": "kiran.poonia15@gmail.com"
         }
     ],
     "require": {
